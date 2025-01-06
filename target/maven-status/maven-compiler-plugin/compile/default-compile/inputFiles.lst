@@ -1,1 +1,5 @@
-/Users/david/Git_Storage/tuto/src/main/java/com/imt/framework/web/tuto/TutoApplication.java
+/Users/antoineleva/Desktop/IMT/2èmeA/ProjetCloud/Tuto-Web-service/src/main/java/com/imt/framework/web/tuto/TutoApplication.java
+/Users/antoineleva/Desktop/IMT/2èmeA/ProjetCloud/Tuto-Web-service/src/main/java/com/imt/framework/web/tuto/resources/LivreResource.java
+/Users/antoineleva/Desktop/IMT/2èmeA/ProjetCloud/Tuto-Web-service/src/main/java/com/imt/framework/web/tuto/JerseyConfig.java
+/Users/antoineleva/Desktop/IMT/2èmeA/ProjetCloud/Tuto-Web-service/src/main/java/com/imt/framework/web/tuto/repositories/LivreRepository.java
+/Users/antoineleva/Desktop/IMT/2èmeA/ProjetCloud/Tuto-Web-service/src/main/java/com/imt/framework/web/tuto/entities/Livre.java
