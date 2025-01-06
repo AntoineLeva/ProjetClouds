@@ -11,6 +11,18 @@ public class Livre {
     private String auteur;
     private Double price;
 
+    // Constructeur par défaut
+    public Livre() {
+    }
+
+    // Constructeur paramétré
+    public Livre(Integer id, String titre, String auteur, Double price) {
+        this.id = id;
+        this.titre = titre;
+        this.auteur = auteur;
+        this.price = price;
+    }
+
     public Integer getId() {
         return id;
     }
