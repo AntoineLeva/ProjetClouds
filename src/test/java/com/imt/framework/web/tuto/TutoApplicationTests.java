@@ -1,7 +1,8 @@
-package com.imt.framework.web.tuto.resources;
+package com.imt.framework.web.tuto;
 
 import com.imt.framework.web.tuto.entities.Livre;
 import com.imt.framework.web.tuto.repositories.LivreRepository;
+import com.imt.framework.web.tuto.resources.LivreResource;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.mockito.InjectMocks;
