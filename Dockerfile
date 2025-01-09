@@ -11,4 +11,4 @@ COPY target/tuto-0.0.1-SNAPSHOT.jar app/app.jar
 EXPOSE 8080
 
 # Étape 5 : Spécifier la commande pour exécuter l'application
-CMD ["java", "-jar", "app.jar"]
+CMD ["java", "-jar", "app/app.jar"]
