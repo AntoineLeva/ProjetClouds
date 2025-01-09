@@ -11,7 +11,7 @@ services:
       - sonarqube
       - db
     volumes: 
-      - ./target:/app
+      - target:/app
   
   sonarqube:
     image: sonarqube:community
@@ -41,6 +41,7 @@ services:
       - postgres_data:/var/lib/postgresql/data
 
 volumes:
+  target:
   sonarqube_data:
   sonarqube_extensions:
   sonarqube_logs:
