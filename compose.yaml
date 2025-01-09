@@ -11,7 +11,7 @@ services:
       - sonarqube
       - db
     volumes: 
-      - ./target:/
+      - ./target:/app
   
   sonarqube:
     image: sonarqube:community
