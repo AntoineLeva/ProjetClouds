@@ -2,10 +2,10 @@
 FROM openjdk:17-jdk-slim
 
 # Étape 2 : Définir le répertoire de travail dans le conteneur
-WORKDIR /app
+#♦WORKDIR /app
 
 # Étape 3 : Copier le fichier JAR dans le conteneur
-COPY target/tuto-0.0.1-SNAPSHOT.jar app.jar
+COPY target/tuto-0.0.1-SNAPSHOT.jar app/app.jar
 
 # Étape 4 : Exposer un port (par exemple, 8080)
 EXPOSE 8080
