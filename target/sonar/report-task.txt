@@ -1,6 +1,0 @@
-projectKey=com.imt.framework.web:tuto
-serverUrl=http://localhost:9000
-serverVersion=25.1.0.102122
-dashboardUrl=http://localhost:9000/dashboard?id=com.imt.framework.web%3Atuto
-ceTaskId=36d38718-4f78-483b-91aa-d0c70df7c277
-ceTaskUrl=http://localhost:9000/api/ce/task?id=36d38718-4f78-483b-91aa-d0c70df7c277
