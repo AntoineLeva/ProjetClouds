@@ -1,0 +1,5 @@
+# Created at 2025-01-08T17:20:57.243
+Boot Manifest-JAR contains absolute paths in classpath 'D:\COURS-3eme-année-2024-2025\Projet Cloud Sécurisé\ProjetCouldsV\ProjetClouds\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
